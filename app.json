@@ -1,15 +1,21 @@
 {
-  "logo": "http://...",
-  "logo_text": "Bellotero.io",
   "menu": {
     "items": [
       {
-        "text": "Calculator",
-        "route": "/page-1"
+        "text": "Testimonial",
+        "route": "page-1"
       },
       {
-        "text": "Features",
-        "route": "/page-2"
+        "text": "Configurator",
+        "route": "page-2"
+      },
+      {
+        "text": "Stories",
+        "route": "#"
+      },
+      {
+        "text": "About",
+        "route": "#"
       }
     ]
   }
